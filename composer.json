@@ -1,0 +1,20 @@
+{
+  "name": "ranaahmar/php-json-db-manager",
+  "description": "A lightweight, zero-dependency PHP class to use JSON files as a robust NoSQL database.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ahmar Hussain",
+      "email": "m.ahmarhussain@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Ahmar\\Database\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=8.0"
+  }
+}
