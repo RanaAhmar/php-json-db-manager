@@ -88,3 +88,11 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📄 License
 This project is MIT licensed. See `LICENSE`.
+
+
+---
+### 🏢 About Stackaura
+This project is proudly maintained backed and sponsored by **[Stackaura](https://www.stackaura.com/)**.
+We specialize in building high-performance web applications, scalable SaaS architectures, and premium digital solutions.
+👉 **[Visit Stackaura to supercharge your next project!](https://www.stackaura.com/)**
+
